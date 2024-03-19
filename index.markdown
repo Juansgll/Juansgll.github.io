@@ -2,12 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-#layout: page
+layout: page
 title: Unveiling the Tapestry of Crime: A Narrative Journey through San Francisco's Data
-#theme: modernist
+theme: modernist
 ---
 
-# Introduction
 In the heart of the Golden State lies a city pulsating with life, innovation, and culture—San Francisco. Yet, beneath its picturesque skyline and vibrant streets lies a narrative woven with threads of crime. Embark with us on a journey through the labyrinth of data, as we unravel the stories hidden within San Francisco's crime statistics.
 
 # Chapter 1: The City's Pulse
