@@ -7,6 +7,8 @@ title: Unveiling the Tapestry of Crime: A Narrative Journey through San Francisc
 theme: modernist
 ---
 
+# Introduction
+
 In the heart of the Golden State lies a city pulsating with life, innovation, and culture—San Francisco. Yet, beneath its picturesque skyline and vibrant streets lies a narrative woven with threads of crime. Embark with us on a journey through the labyrinth of data, as we unravel the stories hidden within San Francisco's crime statistics.
 
 # Chapter 1: The City's Pulse
