@@ -4,7 +4,6 @@
 
 layout: page
 title: Unveiling the Tapestry of Crime: A Narrative Journey through San Francisco's Data
-theme: modernist
 ---
 
 # Introduction
