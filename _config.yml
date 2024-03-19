@@ -29,7 +29,7 @@ meta_author: Adrián López and Juan Santos
 
 
 # Build settings
-#theme: 
+theme: Modernist 
 plugins:
   - jekyll-feed
 
