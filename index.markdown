@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+#layout: page
 title: Unveiling the Tapestry of Crime: A Narrative Journey through San Francisco's Data
-theme: modernist
+#theme: modernist
 ---
 
 # Introduction
