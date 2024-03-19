@@ -21,16 +21,15 @@
 title: SF Crime Data
 email: s232101@dtu.dk, s232786@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "This is a website that analyses data for San Francisco crimes."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://juansgll.github.io/about/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  juansgll
+meta_author: Adrián López and Juan Santos
+
 
 # Build settings
-theme: minima
+#theme: 
 plugins:
   - jekyll-feed
 
