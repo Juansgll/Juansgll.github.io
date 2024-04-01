@@ -1,7 +1,6 @@
 ---
 title: About the project
-feature_text: |
-  A demo of Markdown and HTML includes
+feature_text:
 feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/main/Pictures/golden-gate-bridge-header.jpg"
 ---
 
