@@ -2,7 +2,7 @@
 title: Crime complaints and arrests saw a big decrease in NYC under COVID-19 – Why?
 feature_text: |
 
-feature_image: "https://github.com/Juansgll/juansgll.github.io/blob/main/Pictures/banner_locals_SanFranciscoNorthernCalifornia.jpg"
+feature_image: "![image](https://github.com/Juansgll/juansgll.github.io/assets/116965884/7d870d22-64e5-41a9-814c-9bcd3d422c1e)"
 excerpt: " "
 ---
 
