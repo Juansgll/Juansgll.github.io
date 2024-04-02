@@ -5,6 +5,8 @@ feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/ma
 ---
 [Link to github repository](https://github.com/Juansgll/juansgll.github.io "Link to github")
 
+<div style="text-align: justify">
+
 **References:** 
 
 *Gavin Newsom, governor of California.* Yale Dyslexia. (n.d.). https://dyslexia.yale.edu/story/gavin-newsom/ 
@@ -18,6 +20,8 @@ Wikimedia Foundation. (2024, March 24). *Gavin Newsom.* Wikipedia. https://en.wi
 Wikimedia Foundation. (2024b, March 28). *Ed Lee.* Wikipedia. https://en.wikipedia.org/wiki/Ed_Lee 
 
 *San Francisco Police Department.* (n.d.). https://www.sanfranciscopolice.org/ 
+
+</div>
 
 Wikimedia Foundation. (2024a, March 21). *San Francisco Police Department.* Wikipedia. https://en.wikipedia.org/wiki/San_Francisco_Police_Department 
 
