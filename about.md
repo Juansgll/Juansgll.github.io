@@ -6,6 +6,7 @@ feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/ma
 [Link to github repository](https://github.com/Juansgll/juansgll.github.io "Link to github")
 
 **References:** 
+
 *Gavin Newsom, governor of California.* Yale Dyslexia. (n.d.). https://dyslexia.yale.edu/story/gavin-newsom/ 
 *Finding aid to the edwin M. (mah) Lee Papers, 2011-2017, SFH 695.* Online Archive of California. (n.d.). https://oac.cdlib.org/findaid/ark:/13030/c8h41zw5/entire_text/ 
 *Board of Supervisors approves conservatorship legislation introduced by mayor london breed and supervisor Rafael Mandelman. Board of Supervisors approves conservatorship legislation introduced by Mayor London Breed and Supervisor Rafael Mandelman | San Francisco. (2019, June 4).* https://www.sf.gov/news/board-supervisors-approves-conservatorship-legislation-introduced-mayor-london-breed-and 
