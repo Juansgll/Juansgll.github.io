@@ -24,3 +24,7 @@ Wikimedia Foundation. (2024b, March 28). *Ed Lee.* Wikipedia. https://en.wikiped
 Wikimedia Foundation. (2024a, March 21). *San Francisco Police Department.* Wikipedia. https://en.wikipedia.org/wiki/San_Francisco_Police_Department 
 
 *City performance scorecards. Violent Crime and Property Crime*. City Performance Scorecards. (n.d.). https://sfgov.org/scorecards/public-safety/violent-crime-rate-and-property-crime-rate 
+
+**Contributions:**
+
+Both authors have contributed in the same amount of work in terms of coding and web page development.
