@@ -5,7 +5,6 @@ feature_text: |
 feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/main/Pictures/banner_locals_SanFranciscoNorthernCalifornia.jpg"
 excerpt: " "
 ---
-<div class=text-justify>
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighbourhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime.  
 
 The Golden Gate Bridge, with its imposing presence along the bay, serves as a metaphor for the interconnectedness of crime within San Francisco. Much like the bridge connects disparate regions, crime threads its way through the city, touching various aspects of life for its inhabitants and visitors. Over time, the city has experienced fluctuations in criminal activity, with each period leaving a noticeable mark on the urban environment. Just as the bridge symbolizes unity, crime underscores the complex web of social dynamics present within the city. 
@@ -48,6 +47,4 @@ However, violent crimes in San Francisco don't seem to discriminate based on tim
 
 While this might seem like a relief, it's not, as if these crimes were solely associated with nightlife, a citizen leading a peaceful life could feel reassured about not getting involved in an unfortunate situation. However, the reality is different, where insecurity persists throughout the entire day. 
 
-[Link to Explainer Notebook](https://sdataanalyse.github.io/about/ "Link to Explainer Notebook")
-
-</div>
+[Link to Github](https://github.com/Juansgll/juansgll.github.io/ "Link to Github")
