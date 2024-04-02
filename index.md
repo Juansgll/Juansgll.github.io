@@ -16,6 +16,7 @@ Since the topics of non-violent crimes, such as theft, vandalism, and drug-relat
 
 
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/mapa_interactivo.html" width="110%" height="650px"></iframe>
+
 *Figure 1: Map of violent crimes in San Francisco, 2003-2018*
 
 [Parrafo explicando las zonas y edificios importantes] 
@@ -32,6 +33,7 @@ Although different approaches have been put into action, it can be observed in f
 
 
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stacked_violent_crimes.html" width="110%" height="650px"></iframe>
+
 *Figure 2: Stacked histogram of violent crimes through the years in San Francisco, 2003-2018*
 
 It can be observed in figure 2 that assault is the most committed crime, and it shows no clear recession or growth pattern, but the fluctuation mentioned before. But forcible sex offenses and weapon laws are starting to show a growth tendency, which can be explained by the arguments mentioned before: more crimes are committed, but also more attention to these crimes is garnered. Robberies and arson remain constant throughout the years. Finally, kidnapping presented a peak from 2011 to 2015, but the next years present a considerable reduction. 
@@ -41,6 +43,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
   
 
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
+
 *Figure 3: Bokeh interactive hourly graph of violent crimes in San Francisco (aggregated data), 2003-2018*
 
 However, violent crimes in San Francisco don't seem to discriminate based on time of day, except for the late hours of the night. These crimes are distributed almost evenly between 9 and 2 am. 
