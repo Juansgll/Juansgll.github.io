@@ -39,7 +39,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
 
   
 *Figure 3: Bokeh interactive hourly graph of violent crimes in San Francisco (aggregated data), 2003-2018*
-<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="140%" height="650px"></iframe>
 
 However, violent crimes in San Francisco don't seem to discriminate based on time of day, except for the late hours of the night. These crimes are distributed almost evenly between 9 and 2 am. 
 
