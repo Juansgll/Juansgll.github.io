@@ -30,7 +30,7 @@ Ed Lee continued some of the initiatives started by Newsom but also shifted focu
 Although different approaches have been put into action, it can be observed in figure 2 that through the years there is not a clear tendency in crimes, but more of a fluctuation. It is important to remember that the total number of crimes shown does not represent the truth, since in statistics there are many things that can influence the data gathered, such as an upgrade in technology, more cameras throughout the city, focus of police in specific type of crimes and so on. In 2018 data is obtained until May, so the bar is not comparable to the past years. 
 
 *Figure 2: Total number and % change for complaints/arrests (focus crimes), 2019-2022*
-<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stack_violent_crimes.html" width="110%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stacked_violent_crimes.html" width="110%" height="650px"></iframe>
 
 GRAPH HISTOGRAMA 
 
@@ -42,7 +42,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
 
   
 *Figure 3: Total number and % change for complaints/arrests (focus crimes), 2019-2022*
-<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="110%" height="650px"></iframe>
+<iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="80%" height="650px"></iframe>
 GRAPH POLAR 
 
 However, violent crimes in San Francisco don't seem to discriminate based on time of day, except for the late hours of the night. These crimes are distributed almost evenly between 9 and 2 am. 
