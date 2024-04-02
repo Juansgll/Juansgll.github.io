@@ -5,6 +5,7 @@ feature_text: |
 feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/main/Pictures/banner_locals_SanFranciscoNorthernCalifornia.jpg"
 excerpt: " "
 ---
+<div style="text-align: justify">
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighbourhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime.  
 
 The Golden Gate Bridge, with its imposing presence along the bay, serves as a metaphor for the interconnectedness of crime within San Francisco. Much like the bridge connects disparate regions, crime threads its way through the city, touching various aspects of life for its inhabitants and visitors. Over time, the city has experienced fluctuations in criminal activity, with each period leaving a noticeable mark on the urban environment. Just as the bridge symbolizes unity, crime underscores the complex web of social dynamics present within the city. 
@@ -42,8 +43,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
 
 However, violent crimes in San Francisco don't seem to discriminate based on time of day, except for the late hours of the night. These crimes are distributed almost evenly between 9 and 2 am. 
-
-  
+</div>
 
 While this might seem like a relief, it's not, as if these crimes were solely associated with nightlife, a citizen leading a peaceful life could feel reassured about not getting involved in an unfortunate situation. However, the reality is different, where insecurity persists throughout the entire day. 
 
