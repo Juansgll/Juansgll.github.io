@@ -8,18 +8,15 @@ excerpt: " "
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighborhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime. 
 <br>
 
-**The Golden Gate Bridge: A Symbol of Interconnected Crime**
-
+#### The Golden Gate Bridge: A Symbol of Interconnected Crime
 The Golden Gate Bridge, with its imposing presence along the bay, serves as a metaphor for the interconnectedness of crime within San Francisco. Much like the bridge connects disparate regions, crime threads its way through the city, touching various aspects of life for its inhabitants and visitors. Over time, the city has experienced fluctuations in criminal activity, with each period leaving a noticeable mark on the urban environment. Just as the bridge symbolizes unity, crime underscores the complex web of social dynamics present within the city. 
 <br>
 
-**Understanding Crime Dynamics in San Francisco**
-
+#### Understanding Crime Dynamics in San Francisco
 Analyzing crime rates is complex and requires a comprehensive approach to understanding the policies, law enforcement strategies, and socio-economic factors at play. During the 2000s, the influx of tech companies into San Francisco created opportunities and wealth among some parts of the population, but also led to gentrification, social inequality, homelessness, and poverty. Changes in immigration patterns further influenced the types of crimes observed in the city, highlighting the dynamic nature of crime dynamics.
 <br>
 
-**Focus on Violent Crime Trends**
-
+#### Focus on Violent Crime Trends
 While non-violent crimes such as theft, vandalism, and drug-related offenses regularly make headlines, concerns about the rise in violent crimes, including gun crimes, assaults, and robberies, have garnered significant attention. The next figure delves into the trends of violent crimes committed in San Francisco from 2003 to 2018:
 <br>
 
@@ -31,8 +28,7 @@ While non-violent crimes such as theft, vandalism, and drug-related offenses reg
 <br>
 
 
-**Spatial Distribution of the crimes: Tenderloin and Mission** 
-
+#### Spatial Distribution of the crimes: Tenderloin and Mission 
 On the map, when selecting just a single year for a clearer visualization, it becomes evident that regardless of the specific year chosen, the pattern remains consistent. 
 <br>
 
@@ -48,12 +44,10 @@ During the period from 2003 to 2018, two different Governors have overseen San F
 <br>
 
 #### Gavin Newsom's Strategy: Addressing Root Causes 
-
 Newsom's approach to addressing crime focused on tackling underlying social issues such as homelessness and drug addiction in San Francisco, prioritizing improvement in these areas. He implemented programs such as Care Not Cash, which aimed to reduce homelessness by providing supportive services instead of cash grants. He also supported efforts to reform the city's criminal justice system, including advocating for alternatives to incarceration for non-violent offenders and emphasizing rehabilitation and reintegration programs. However, during Newsom's tenure, there were also criticisms about his administration's handling of certain crime issues, particularly property crime and quality-of-life offenses in some neighborhoods. 
 <br>
 
 #### Ed Lee's Shift Towards Community Policing 
-
 Ed Lee continued some of the initiatives started by Newsom but also shifted focus towards community policing strategies and collaboration with law enforcement agencies to tackle violent crime. Lee worked on implementing policies aimed at enhancing public safety, such as expanding community-based policing programs, increasing police presence in high-crime areas, and investing in technology to improve crime prevention and response. Under Lee's leadership, there was also a focus on addressing the underlying social and economic factors contributing to crime, including poverty, lack of affordable housing, and disparities in access to education and employment opportunities. 
 <br>
 
@@ -80,7 +74,6 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
 <br>
 
 **The Ilusion of Safety** 
-
 However, violent crimes in San Francisco don't seem to discriminate based on time of day, except for the late hours of the night. These crimes are distributed almost evenly between 9 and 2 am. 
 <br>
 
