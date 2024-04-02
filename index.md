@@ -5,8 +5,6 @@ feature_text: |
 feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/main/Pictures/banner_locals_SanFranciscoNorthernCalifornia.jpg"
 excerpt: " "
 ---
-<div style="text-align: justify">
-
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighborhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime. 
 <br>
 
@@ -25,14 +23,13 @@ Analyzing crime rates is complex and requires a comprehensive approach to unders
 While non-violent crimes such as theft, vandalism, and drug-related offenses regularly make headlines, concerns about the rise in violent crimes, including gun crimes, assaults, and robberies, have garnered significant attention. The next figure delves into the trends of violent crimes committed in San Francisco from 2003 to 2018:
 <br>
 
-</div>
 
 <figure>
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/mapa_interactivo.html" width="110%" height="650px"></iframe>
   <figcaption><em>Figure 1:</em> Map of violent crimes in San Francisco, 2003-2018</figcaption>
 </figure>
 
-<div style="text-align: justify">
+
 
 **Spatial Distribution of the crimes: Tenderloin and Mission** 
 
@@ -64,8 +61,6 @@ Ed Lee continued some of the initiatives started by Newsom but also shifted focu
 Although different approaches have been put into action, it can be observed in figure 2 that through the years there is not a clear tendency in crimes, but more of a fluctuation. It is important to remember that the total number of crimes shown does not represent the truth, since in statistics there are many things that can influence the data gathered, such as an upgrade in technology, more cameras throughout the city, focus of police in specific type of crimes and so on. In 2018 data is obtained until May, so the bar is not comparable to the past years. 
 <br>
 
-</div>
-
 <figure>
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stacked_violent_crimes.html" width="110%" height="650px"></iframe>
   <figcaption><em>Figure 2:</em> Stacked histogram of violent crimes through the years in San Francisco, 2003-2018</figcaption>
@@ -79,15 +74,11 @@ It can be observed in figure 2 that assault is the most committed crime, and it 
 Furthermore, these crimes are often associated with the insecurity prevalent during nighttime in cities, where the lack of police presence and inadequate lighting can lead to a surge in such offenses. 
 <br>
 
-</div> 
- 
 <figure>
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
   <figcaption><em>Figure 3:</em> Bokeh interactive hourly graph of violent crimes in San Francisco (2003-2018</figcaption>
 </figure>
 
-
-<div style="text-align: justify">
 
 **The Ilusion of Safety** 
 
@@ -96,7 +87,5 @@ However, violent crimes in San Francisco don't seem to discriminate based on tim
 
 While this might seem like a relief, it's not, as if these crimes were solely associated with nightlife, a citizen leading a peaceful life could feel reassured about not getting involved in an unfortunate situation. However, the reality is different, where insecurity persists throughout the entire day. 
 <br>
-
-</div>
 
 [Link to Github](https://github.com/Juansgll/juansgll.github.io/ "Link to Github")
