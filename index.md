@@ -17,12 +17,13 @@ Since the topics of non-violent crimes, such as theft, vandalism, and drug-relat
 
 </div>
 
+*Figure 1: Map of violent crimes in San Francisco, 2003-2018*
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/mapa_interactivo.html" width="110%" height="650px"></iframe>
 
-*Figure 1: Map of violent crimes in San Francisco, 2003-2018*
 
 <div style="text-align: justify">
-[Parrafo explicando las zonas y edificios importantes] 
+ 
+**Parrafo explicando las zonas y edificios importantes** 
 
 During the period from 2003 to 2018, two different Governors have overseen San Francisco: Gavin Newsom (2003-2011) and Ed Lee (2011-2017). In 2018, London Breed would be the successor of the position as governor. During their respective tenures as mayor of San Francisco Newsom and Lee had somewhat different approaches to fighting crime, reflecting shifts in policy priorities and community needs. 
 
@@ -35,10 +36,10 @@ Although different approaches have been put into action, it can be observed in f
 </div>
 
 
- 
+ *Figure 2: Stacked histogram of violent crimes through the years in San Francisco, 2003-2018*
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stacked_violent_crimes.html" width="110%" height="650px"></iframe>
 
-*Figure 2: Stacked histogram of violent crimes through the years in San Francisco, 2003-2018*
+
 
 <div style="text-align: justify">
  
@@ -47,10 +48,10 @@ It can be observed in figure 2 that assault is the most committed crime, and it 
 Furthermore, these crimes are often associated with the insecurity prevalent during nighttime in cities, where the lack of police presence and inadequate lighting can lead to a surge in such offenses. 
 
 </div> 
-
+ 
+ *Figure 3: Bokeh interactive hourly graph of violent crimes in San Francisco (aggregated data), 2003-2018*
 <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
 
-*Figure 3: Bokeh interactive hourly graph of violent crimes in San Francisco (aggregated data), 2003-2018*
 
 <div style="text-align: justify">
  
