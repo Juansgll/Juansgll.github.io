@@ -28,7 +28,7 @@ While non-violent crimes such as theft, vandalism, and drug-related offenses reg
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/mapa_interactivo.html" width="110%" height="650px"></iframe>
   <figcaption><em>Figure 1:</em> Map of violent crimes in San Francisco, 2003-2018</figcaption>
 </figure>
-
+<br>
 
 
 **Spatial Distribution of the crimes: Tenderloin and Mission** 
@@ -65,8 +65,7 @@ Although different approaches have been put into action, it can be observed in f
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/stacked_violent_crimes.html" width="110%" height="650px"></iframe>
   <figcaption><em>Figure 2:</em> Stacked histogram of violent crimes through the years in San Francisco, 2003-2018</figcaption>
 </figure>
-
-<div style="text-align: justify">
+<br>
  
 It can be observed in figure 2 that assault is the most committed crime, and it shows no clear recession or growth pattern, but the fluctuation mentioned before. But forcible sex offenses and weapon laws are starting to show a growth tendency, which can be explained by the arguments mentioned before: more crimes are committed, but also more attention to these crimes is garnered. Robberies and arson remain constant throughout the years. Finally, kidnapping presented a peak from 2011 to 2015, but the next years present a considerable reduction.
 <br>
@@ -78,7 +77,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
   <figcaption><em>Figure 3:</em> Bokeh interactive hourly graph of violent crimes in San Francisco (2003-2018</figcaption>
 </figure>
-
+<br>
 
 **The Ilusion of Safety** 
 
