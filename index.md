@@ -7,7 +7,7 @@ excerpt: " "
 ---
 <div style="text-align: justify">
 
-**Narrative Data Visualization: Exploring Violent Crime Trends in San Francisco**
+**Exploring Violent Crime Trends in San Francisco**
 
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighborhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime.
 
