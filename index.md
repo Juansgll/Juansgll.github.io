@@ -7,8 +7,6 @@ excerpt: " "
 ---
 <div style="text-align: justify">
 
-**Exploring Violent Crime Trends in San Francisco**
-
 San Francisco is a prominent city on the western coast of the United States, known for its cultural significance and economic vitality. Its landmarks, neighborhoods, and history draw millions of visitors annually. However, beneath its appealing exterior, the city faces many challenges related to crime.
 
 **The Golden Gate Bridge: A Symbol of Interconnected Crime**
@@ -27,7 +25,7 @@ While non-violent crimes such as theft, vandalism, and drug-related offenses reg
 
 <figure>
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/mapa_interactivo.html" width="110%" height="650px"></iframe>
-  <figcaption>Figure 1: Map of violent crimes in San Francisco, 2003-2018</figcaption>
+  <figcaption<em>Figure 2:</em> Map of violent crimes in San Francisco, 2003-2018</figcaption>
 </figure>
 
 <div style="text-align: justify">
@@ -70,7 +68,7 @@ Furthermore, these crimes are often associated with the insecurity prevalent dur
  
 <figure>
   <iframe src="https://raw.githack.com/Juansgll/juansgll.github.io/main/Pictures/crime_distribution_by_hour.html" width="150%" height="650px"></iframe>
-  <figcaption><em>Figure 3:</em> Bokeh interactive hourly graph of violent crimes in San Francisco (aggregated data), 2003-2018</figcaption>
+  <figcaption><em>Figure 3:</em> Bokeh interactive hourly graph of violent crimes in San Francisco (2003-2018</figcaption>
 </figure>
 
 
