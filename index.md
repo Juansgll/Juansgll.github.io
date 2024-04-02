@@ -6,10 +6,6 @@ feature_image: "https://raw.githubusercontent.com/Juansgll/juansgll.github.io/ma
 excerpt: " "
 ---
 <div style="text-align: justify">
- 
-Certainly! Below is the revised text with added titles for visual appeal and emphasis on Narrative Data Visualization:
-
----
 
 **Narrative Data Visualization: Exploring Violent Crime Trends in San Francisco**
 
